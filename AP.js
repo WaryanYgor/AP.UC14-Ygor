@@ -27,5 +27,5 @@ $(document).ready(function () {
       var mensagem = `Nome: ${nome}\nData de Nascimento: ${dataNascimento}\nCPF: ${cpf}\nRG: ${rg}\nCidade: ${cidade}\nForma de Pagamento: ${formaPagamento}`;
       
       alert(mensagem);
-    });
-  });
+    })
+  })
